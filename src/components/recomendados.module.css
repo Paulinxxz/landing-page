@@ -1,0 +1,28 @@
+div3 {
+    display: flex;
+    gap: 15px;
+} 
+
+.recomendadoh1 {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    margin-left: 46rem;
+    margin-top: 5rem;
+}
+
+.imagem1 {
+    height: 14rem;
+    margin-left: -16.5rem;
+    margin-top: 8rem;
+}
+
+.imagem2 {
+    height: 14rem;
+    margin-top: 8rem;
+}
+
+.imagem3 {
+    height: 14rem;
+    margin-top: 8rem;
+}

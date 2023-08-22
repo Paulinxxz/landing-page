@@ -1,0 +1,26 @@
+.titulodesc {
+    color: #326313;
+    margin-top: -284px;
+    font-size: 26px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.spandesc {
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    color: black; 
+}
+
+.descricao{
+    text-align: center;
+    height: 260px;
+    box-sizing: border-box;
+    margin-left: 730px;
+    height: 258px;
+    width: 44rem;
+    border-radius: 12px;
+    background-color: #D9D9D9;
+}

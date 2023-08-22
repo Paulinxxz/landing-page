@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+.header {
+    background-color: #D9D9D9;
+    height: 65px;
+}
+
+.lacoste {
+    height: 110px;
+    margin-left: 63px;
+    margin-top: -23px;
+}
+
+.textoheader {
+    text-align: center;
+    margin-top: -69px;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.iconheart {
+    height: 28px;
+    float: right;
+    margin-right: 200px;
+    margin-top: -33px;
+}
+
+.iconcart {
+    height: 28px;
+    float: right;
+    margin-right: 135px;
+    margin-top: -33px;
+}
+
+.iconuser {
+    height: 28px;
+    float: right;
+    margin-right: 73px;
+    margin-top: -33px;
+}
